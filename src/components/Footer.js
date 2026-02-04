@@ -1,5 +1,3 @@
-import { pageLinks } from '../data'
-import { iconLinks } from '../data'
 import PageLink from './PageLink'
 import IconLink from './IconLink'
 
